@@ -1,0 +1,29 @@
+{
+  "name": "feathers-session",
+  "version": "0.0.1",
+  "description": "Session management for FeathersJS",
+  "main": "lib/index.js",
+  "repository": "https://github.com/TimNZ/feathers-session.git",
+  "author": "Tim Shnaider <tim@xemware.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express-session": "^1.15.6",
+    "lodash.merge": "^4.6.0",
+    "lodash.omit": "^4.5.0",
+    "lodash.pick": "^4.4.0"
+  },
+  "bugs": {
+    "url": "https://github.com/TimNZ/feathers-session/issues"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": ">= 6"
+  },
+  "keywords": [
+    "feathers",
+    "session",
+    "express"
+  ]
+}
